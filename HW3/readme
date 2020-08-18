@@ -1,0 +1,1 @@
+Classifying MNIST digits while there's been a noise added to them. I've done various methods for dimensionality reduction (PCA, LDA, GDA), and classification (SVM, KNN, RF) and ROC analysis.
