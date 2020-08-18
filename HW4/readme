@@ -1,0 +1,1 @@
+In this HW we use Keras and TF to implement CNNs that are used for MNIST digits classification. We explore FCs, different activation functions, and techniques such as dropout, batch normalization, and data augmentation to improve our results.
